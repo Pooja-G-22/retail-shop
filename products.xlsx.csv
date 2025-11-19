@@ -1,0 +1,84 @@
+﻿product_id,name,reorder_level
+1,rice 5kg,25
+2,wheat flour 2kg,20
+3,sunflower oil 1l,15
+4,sugar 1kg,30
+5,milk 1l,20
+6,curd 500g,15
+7,butter 100g,10
+8,ghee 500ml,12
+9,bread small,10
+10,eggs 12 pack,15
+11,tea powder 250g,18
+12,coffee powder 200g,12
+13,green tea pack,10
+14,toor dal 1kg,22
+15,urad dal 1kg,18
+16,moong dal 1kg,20
+17,channa dal 1kg,18
+18,salt 1kg,20
+19,tumeric powder,15
+20,masala powder,12
+21,chilli powder 200g,18
+22,coriander powder 200g,15
+23,biscuit pack,30
+24,cookies,20
+25,chips large pack,18
+26,chocolate bar,25
+27,instant noodles pack,25
+28,pasta pack,15
+29,juice tetra pack,20
+30,soft drink 1l,15
+31,energy drink 250ml,12
+32,water bottle 1l,30
+33,shampoo 180ml,15
+34,conditioner 180ml,10
+35,hair oil 200ml,18
+36,toothpaste 150g,15
+37,toothbrush,15
+38,bathing soap,25
+39,body lotion 200ml,15
+40,face wash,12
+41,face cream,10
+42,handwash 200ml,15
+43,hand sanitizer 200ml,12
+44,detergent powder 1kg,20
+45,fabric softener 500ml,15
+46,dish wash liquid,18
+47,floor cleaner 1l,15
+48,room freshener,12
+49,mosquito liquid,14
+50,baby diapers small pack,20
+51,baby powder 200g,15
+52,baby soap,10
+53,paneer 200g,12
+54,frozen peas 500g,15
+55,ice cream cup,18
+56,sweater,10
+57,woolen socks,15
+58,flask steel 1l,20
+59,hot water bag,10
+60,winter cream,12
+61,ac coolant spray,10
+62,sunscreen lotion,15
+63,cold drink cans,20
+64,ice pack,15
+65,fresh lemon juice,25
+66,umbrella,30
+67,raincoat,25
+68,car wiper,15
+69,waterproof shoe cover,10
+70,diwali sweets box,20
+71,deepam oil 1l,25
+72,fire crackers small box,10
+73,pongal surgarcane pack,15
+74,christmas cake,20
+75,new year gift hamper,12
+76,paracetamol strip,20
+77,vapor rub,15
+78,bandages set,10
+79,pressure cooker 3l,10
+80,stainless steel flask,15
+81,non-stick pan,12
+82,gas lighter,15
+83,kitchen towel set,20
